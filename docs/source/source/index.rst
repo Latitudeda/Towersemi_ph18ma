@@ -9,6 +9,5 @@ Tower Semiconductor PH18MA documentation
    structure/index
    tech/index
    component_list/index
-   quick_start/index
 
 

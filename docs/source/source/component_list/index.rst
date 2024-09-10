@@ -8,7 +8,7 @@ Component library
    bondpad
    gc
    mmi
-   phase shifter
+   phase_shifter
    photodiode
    taper
    transition
