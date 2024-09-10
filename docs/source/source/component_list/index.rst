@@ -1,14 +1,17 @@
 Component library
-========================
+============================
 
 .. toctree::
    :hidden:
 
    bend
-   design_area
+   bondpad
    gc
-   heater
    mmi
+   phase shifter
+   photodiode
+   taper
+   transition
    waveguide
 
 
