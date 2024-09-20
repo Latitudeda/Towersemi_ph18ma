@@ -1,4 +1,4 @@
-Tower Semiconductor PH18MA documentation
+Tower Semiconductor PH18MA Documentation
 =============================================
 
 .. toctree::
