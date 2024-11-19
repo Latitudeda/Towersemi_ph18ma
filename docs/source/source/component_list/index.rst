@@ -12,7 +12,7 @@ Component library
    mmi
    phase_shifter
    photodiode
-   s_bned
+   s_bend
    taper
    transition
    waveguide

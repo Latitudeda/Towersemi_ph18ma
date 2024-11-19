@@ -1,5 +1,5 @@
 Tower Semiconductor PH18MA documentation
-====================================
+============================================
 
 .. toctree::
    :hidden:
