@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="641fdf5a-49ff-4d28-a443-6f33b0f620e2" name="Changes" comment="update_260922">
-      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
+    <list default="true" id="641fdf5a-49ff-4d28-a443-6f33b0f620e2" name="Changes" comment="update_261012">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/images/ASDL_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/images/ASDL_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/images/PhotoCAD_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/images/PhotoCAD_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/images/PhotoCAD_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/images/PhotoCAD_7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/images/lyp.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/images/lyp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/images/lyp1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/images/lyp2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/images/lyp3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/intro/requirement.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/intro/requirement.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/structure/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/structure/index.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/tech/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/tech/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/source/tech/layers.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/tech/layers.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/tech/wg_init.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/tech/wg_init.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +72,47 @@
       <option name="project" value="LOCAL" />
       <updated>1790044835384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update_260928">
+      <option name="closed" value="true" />
+      <created>1790577218406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790577218406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update_260928">
+      <option name="closed" value="true" />
+      <created>1790577383396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790577383396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update_260928">
+      <option name="closed" value="true" />
+      <created>1790578074811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790578074811</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update_261010">
+      <option name="closed" value="true" />
+      <created>1791618858902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791618858902</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update_261012">
+      <option name="closed" value="true" />
+      <created>1791787293479</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791787293479</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +120,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update_260922" />
-    <option name="LAST_COMMIT_MESSAGE" value="update_260922" />
+    <MESSAGE value="update_260928" />
+    <MESSAGE value="update_261010" />
+    <MESSAGE value="update_261012" />
+    <option name="LAST_COMMIT_MESSAGE" value="update_261012" />
   </component>
 </project>
